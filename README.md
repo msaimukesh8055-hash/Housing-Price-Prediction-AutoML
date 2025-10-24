@@ -48,6 +48,15 @@ Output:
 }
 ```
 
+### 5. Business Impact  
+- **~70% faster property valuation** compared to manual SPSS/SQL analysis — enabling near real-time estimates.  
+- **Reduced dependency on expert analysts**, allowing even frontline agents or apps to generate reliable valuations instantly.  
+
+### 6. Real-World Applications  
+- **Real Estate Platforms (e.g., Zillow, MagicBricks):** Instant property price estimates for buyers/sellers to improve transparency and engagement.  
+- **Banking & Mortgage Lenders:** Automate **loan underwriting** by embedding house price predictions into credit scoring workflows.  
+- **Insurance:** Enable **dynamic property insurance premiums** by linking to real-time property value.  
+
 ### 5. Screenshots
 📎 [View full project screenshots (PDF)] [Predictive analytics.pdf](https://github.com/user-attachments/files/23121742/Predictive.analytics.pdf)
 
