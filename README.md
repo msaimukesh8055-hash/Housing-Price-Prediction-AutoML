@@ -31,7 +31,7 @@ Input:
   "Year_Built": "2005",
   "Lot_Size": "0.75",
   "Garage_Size": "1",
-  "Neighborhood_Quality": "4"[Predictive analytics.pdf](https://github.com/user-attachments/files/23121672/Predictive.analytics.pdf)
+  "Neighborhood_Quality": "4"
 
 }
 
@@ -46,3 +46,6 @@ Output
     }
   ]
 }
+
+📎 [View full project screenshots (PDF)] [Predictive analytics.pdf](https://github.com/user-attachments/files/23121742/Predictive.analytics.pdf)
+
