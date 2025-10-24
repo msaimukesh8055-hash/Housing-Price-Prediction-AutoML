@@ -1,4 +1,4 @@
-# 🏠 Housing Price Prediction with Vertex AI  
+# Housing Price Prediction with Vertex AI  
 
 ## 1. Project Overview  
 Built a housing price prediction model using **Vertex AI AutoML regression**, enabling real-time property valuation and replacing slow manual methods.  
@@ -8,7 +8,7 @@ Built a housing price prediction model using **Vertex AI AutoML regression**, en
 - **Existing Methods:** Traditional SPSS/SQL workflows require hours of cleaning, feature engineering, and manual modeling, making them unscalable for quick decision-making.  
 - **Opportunity:** An automated ML solution that can predict housing prices instantly, increasing accuracy and efficiency for lenders, brokers, and investors.  
 
-## 3. Solution  
+## 3. Solution   
 - **Tools Used:** Vertex AI (AutoML Regression), Cloud Storage, Cloud Shell, JSON API calls.
 1. **Data Prep**: Uploaded CSV dataset into GCS bucket.
 2. **Model Training**: Used Vertex AI AutoML Tabular (regression mode).
@@ -34,9 +34,10 @@ Input:
   "Neighborhood_Quality": "4"
 
 }
+```
 
-
-Output
+Output:
+```
 {
   "predictions": [
     {
@@ -46,6 +47,8 @@ Output
     }
   ]
 }
+```
 
+## 5. Screenshots
 📎 [View full project screenshots (PDF)] [Predictive analytics.pdf](https://github.com/user-attachments/files/23121742/Predictive.analytics.pdf)
 
