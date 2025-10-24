@@ -32,7 +32,6 @@ Input:
   "Lot_Size": "0.75",
   "Garage_Size": "1",
   "Neighborhood_Quality": "4"
-
 }
 ```
 
